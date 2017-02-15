@@ -2,7 +2,7 @@
 
 
 ## Javascript / jQuery
-[Try jQuery](http://try.jquery.com)
+- [Try jQuery](http://try.jquery.com)
 
 ## Accessibilité des couleurs
 - [Accessible colors](http://accessible-colors.com)
