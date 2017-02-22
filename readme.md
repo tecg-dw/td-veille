@@ -34,5 +34,6 @@
 - [Vidéo de la conférence](https://www.youtube.com/results?search_query=ITCSS)
 - [Sur Hongkiat](http://www.hongkiat.com/blog/inverted-triangle-css-web-development/)
 
-## Alternatives à Affinity
+## Alternatives à Adobe
 - [Webdesignertrends](http://www.webdesignertrends.com)
+- [Sketch](http://www.sketchapp.com)
