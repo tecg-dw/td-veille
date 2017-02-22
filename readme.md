@@ -26,5 +26,10 @@
 ## Youtube
 - [Une chaine sur Laravel / Vue / Angular](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
 
-## Si tu veux tout connaître ?
+## Tu veux tout connaître ?
 - [Know it all](https://know-it-all.io)
+
+## ITCSS
+- [Slides de la conférence d’Harry Roberts](https://speakerdeck.com/dafed/managing-css-projects-with-itcss)
+- [Vidéo de la conférence](https://www.youtube.com/results?search_query=ITCSS)
+- [Sur Hongkiat](http://www.hongkiat.com/blog/inverted-triangle-css-web-development/)
