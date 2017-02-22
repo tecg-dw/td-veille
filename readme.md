@@ -1,6 +1,9 @@
 # Les liens qui ont la classe
 
 
+## Homestead
+- [Homestead](https://abbasharoon.me/homestead-yaml-explained-a-z/)
+
 ## Javascript / jQuery
 - [Try jQuery](http://try.jquery.com)
 
@@ -37,3 +40,9 @@
 ## Alternatives à Adobe
 - [Webdesignertrends](http://www.webdesignertrends.com)
 - [Sketch](http://www.sketchapp.com)
+- [Axure](http://www.axure.com)
+- [Silverflows](http://www.silverflows.com)
+
+
+## Collaboration en ligne
+- [Invision](http://www.invisionapp.com)
