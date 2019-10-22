@@ -1,9 +1,6 @@
 # Les liens qui ont la classe
 
 
-## Homestead
-- [Homestead](https://abbasharoon.me/homestead-yaml-explained-a-z/)
-
 ## Javascript / jQuery
 - [Try jQuery](http://try.jquery.com)
 
